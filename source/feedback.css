@@ -1,0 +1,6 @@
+.option.selected.incorrect .letter{background:var(--red);border-color:var(--red);color:#fff}
+.option.correct .letter{border-color:#289661;color:#147345;background:#e1f3e7}
+.option.selected.correct .letter{background:var(--teal);border-color:var(--teal);color:#fff}
+.feedback-toggle{font-size:13px;background:#f0f6f2;border:1px solid var(--line);border-radius:10px;padding:12px;margin:0 0 16px}
+#answerFeedback:empty{display:none}
+@media(max-width:560px){.exam-top{flex-wrap:wrap}.exam-top>.action-row{width:100%;justify-content:space-between}.feedback-toggle{align-items:flex-start}}

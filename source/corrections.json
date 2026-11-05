@@ -1,0 +1,232 @@
+{
+  "115020_308_0107": {
+    "source": "第一次考試/0107_臨床生理學與病理學/115020_308_0107_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115020&c=308&s=0107&q=1",
+    "updates": [
+      {
+        "question": 54,
+        "original": "D",
+        "accepted": [
+          "C",
+          "D",
+          "CD"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第54題答C或D或CD者均給分"
+      }
+    ]
+  },
+  "115020_308_0501": {
+    "source": "第一次考試/0501_臨床血液學與血庫學/115020_308_0501_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115020&c=308&s=0501&q=1",
+    "updates": [
+      {
+        "question": 37,
+        "original": "B",
+        "accepted": [],
+        "fullCredit": true,
+        "requireAnswer": false,
+        "note": "第37題一律給分"
+      }
+    ]
+  },
+  "115020_308_0502": {
+    "source": "第一次考試/0502_醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）/115020_308_0502_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115020&c=308&s=0502&q=1",
+    "updates": [
+      {
+        "question": 66,
+        "original": "C",
+        "accepted": [],
+        "fullCredit": true,
+        "requireAnswer": false,
+        "note": "第66題一律給分"
+      }
+    ]
+  },
+  "115020_308_0503": {
+    "source": "第一次考試/0503_微生物學與臨床微生物學（包括細菌與黴菌）/115020_308_0503_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115020&c=308&s=0503&q=1",
+    "updates": [
+      {
+        "question": 54,
+        "original": "C",
+        "accepted": [
+          "B",
+          "C",
+          "BC"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第54題答B或C或BC者均給分"
+      }
+    ]
+  },
+  "115020_308_0504": {
+    "source": null,
+    "url": null,
+    "updates": []
+  },
+  "115020_308_0505": {
+    "source": "第一次考試/0505_臨床血清免疫學與臨床病毒學/115020_308_0505_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115020&c=308&s=0505&q=1",
+    "updates": [
+      {
+        "question": 43,
+        "original": "A",
+        "accepted": [
+          "A",
+          "D",
+          "AD"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第43題答A或D或AD者均給分"
+      }
+    ]
+  },
+  "115090_308_0103": {
+    "source": "第二次考試/0103_臨床生理學與病理學/115090_308_0103_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115090&c=308&s=0103&q=1",
+    "updates": [
+      {
+        "question": 20,
+        "original": "B",
+        "accepted": [
+          "B",
+          "D",
+          "BD"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第20題答B或D或BD者均給分"
+      },
+      {
+        "question": 33,
+        "original": "B",
+        "accepted": [
+          "A",
+          "B",
+          "AB"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第33題答A或B或AB者均給分"
+      },
+      {
+        "question": 37,
+        "original": "D",
+        "accepted": [
+          "A",
+          "D",
+          "AD"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第37題答A或D或AD者均給分"
+      }
+    ]
+  },
+  "115090_308_0501": {
+    "source": "第二次考試/0501_臨床血液學與血庫學/115090_308_0501_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115090&c=308&s=0501&q=1",
+    "updates": [
+      {
+        "question": 25,
+        "original": "C",
+        "accepted": [
+          "C",
+          "D",
+          "CD"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第25題答C或D或CD者均給分"
+      }
+    ]
+  },
+  "115090_308_0502": {
+    "source": null,
+    "url": null,
+    "updates": []
+  },
+  "115090_308_0503": {
+    "source": "第二次考試/0503_微生物學與臨床微生物學（包括細菌與黴菌）/115090_308_0503_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115090&c=308&s=0503&q=1",
+    "updates": [
+      {
+        "question": 16,
+        "original": "B",
+        "accepted": [
+          "B",
+          "C",
+          "BC"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第16題答B或C或BC者均給分"
+      },
+      {
+        "question": 70,
+        "original": "D",
+        "accepted": [
+          "B",
+          "D",
+          "BD"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第70題答B或D或BD者均給分"
+      }
+    ]
+  },
+  "115090_308_0504": {
+    "source": "第二次考試/0504_生物化學與臨床生化學/115090_308_0504_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115090&c=308&s=0504&q=1",
+    "updates": [
+      {
+        "question": 10,
+        "original": "A",
+        "accepted": [],
+        "fullCredit": true,
+        "requireAnswer": false,
+        "note": "第10題一律給分"
+      },
+      {
+        "question": 41,
+        "original": "D",
+        "accepted": [],
+        "fullCredit": true,
+        "requireAnswer": false,
+        "note": "第41題一律給分"
+      }
+    ]
+  },
+  "115090_308_0505": {
+    "source": "第二次考試/0505_臨床血清免疫學與臨床病毒學/115090_308_0505_更正答案.pdf",
+    "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?t=M&code=115090&c=308&s=0505&q=1",
+    "updates": [
+      {
+        "question": 40,
+        "original": "A",
+        "accepted": [
+          "A",
+          "D",
+          "AD"
+        ],
+        "fullCredit": false,
+        "requireAnswer": false,
+        "note": "第40題答A或D或AD者均給分"
+      },
+      {
+        "question": 77,
+        "original": "B",
+        "accepted": [],
+        "fullCredit": true,
+        "requireAnswer": false,
+        "note": "第77題一律給分"
+      }
+    ]
+  }
+}
